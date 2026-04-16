@@ -1,0 +1,9 @@
+# project_root/
+# ├── app/
+# │   ├── main.py          # FastAPI instance & routes
+# │   ├── database.py      # Engine, SessionLocal, get_db
+# │   ├── models.py        # SQLAlchemy models
+# │   ├── schemas.py       # Pydantic schemas (BaseModel)
+# │   └── crud.py          # Database operations (Logic)
+# ├── myenv/
+# └── requirements.txt
